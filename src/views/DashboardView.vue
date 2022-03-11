@@ -17,7 +17,7 @@
             <router-link class="nav-link" to="order">訂單管理</router-link>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled">Disabled</a>
+            <router-link class="nav-link" to="/">返回前台</router-link>
           </li>
         </ul>
       </div>
